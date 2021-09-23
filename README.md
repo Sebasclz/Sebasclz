@@ -18,7 +18,5 @@ Mis redes sociales:
 
 
 <div align="center">
-  <a href="https://discord.com/users/419574607020949505">
-    <img src="https://lanyard-profile-readme.vercel.app/api/419574607020949505?animated=true">
-  </a>
+    <img src="[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/419574607020949505)](https://discord.com/users/419574607020949505)">
 </div>
