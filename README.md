@@ -1,3 +1,5 @@
+### Hola yo soy Sebas, desarrollador de bots de Discord 👋
+
 #### 🔧 Lenguajes de programacion:
 - JavaScript
 
