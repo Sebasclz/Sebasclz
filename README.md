@@ -12,6 +12,6 @@
 
 <br>
 <a href="https://github.com/S3BAAS">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S3BAAS&langs_count=3&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S3BAAS&theme=dracula&hide_langs_below=1" />
 </a>
 
