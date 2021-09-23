@@ -3,7 +3,7 @@
 #### 🔧 Lenguajes de programacion:
 - JavaScript
 
-### 💻 Mis proyectos:
+### 💻 Actualmente estoy trabajando en:
 - Kazuha *(Discord Bot)*
 
 
