@@ -1,4 +1,6 @@
-### Hola yo soy Sebas, programo a Kazuha, mi gran bot de Discord!👋
+### Hola yo soy Sebas.
+<!--
+programo a Kazuha, mi gran bot de Discord!👋
 
 #### 🔧 Lenguajes de programacion:
 - JavaScript
@@ -21,7 +23,7 @@
 
 
 
-<!---
+
 <br>
 <a href="https://github.com/S3BAAS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S3BAAS&theme=dracula&hide_langs_below=1" />
