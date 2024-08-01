@@ -18,7 +18,7 @@
 ![icons8-visual-studio-code-2019](https://user-images.githubusercontent.com/76852813/172722742-4c84455a-830a-4f69-8dcd-ac9437e52251.svg)
 
 ### Frameworks and Libraries
-<img width='48px' src='https://img.icons8.com/?size=100&id=ytC17YjDcKHo&format=png&color=000000'></a>
-<img width='48px' src='https://img.icons8.com/?size=100&id=74402&format=png&color=000000'></a>
-<img width='48px' src='https://i.ibb.co/mT1yr68/FastAPI.png'></a>
+<a><img width='48px' src='https://img.icons8.com/?size=100&id=ytC17YjDcKHo&format=png&color=000000'></a>
+<a><img width='48px' src='https://img.icons8.com/?size=100&id=74402&format=png&color=000000'></a>
+<a><img width='48px' src='https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000'></a>
 </p>
